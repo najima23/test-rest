@@ -2,10 +2,21 @@
     "posts": [
       {
         "id": 1,
-        "title": "hello"
+        "title": "hello",
+        "age": 1,
+        "film": "last summer"
+
+      },
+      {
+        "id": 2,
+        "title": "hello",
+        "age": 1,
+        "film": "last summer"
+
       }
     ],
     "profile": {
       "name": "typicode"
     }
+
   }
